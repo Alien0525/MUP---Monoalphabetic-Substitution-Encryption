@@ -1,2 +1,2 @@
-# MUP---Monoalphabetic-Substitution-Encryption
+# MUP - Monoalphabetic-Substitution-Encryption
 MUP Project
