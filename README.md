@@ -1,2 +1,2 @@
 # MUP - Monoalphabetic-Substitution-Encryption
-MUP Project
+Assembly code for college Microprocessor Programming and Interface Course Project - Substitution-Encryption
